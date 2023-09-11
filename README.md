@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidabdou&label=Profile%20views&color=0e75b6&style=flat" alt="khalidabdou" /> </p>
 
-- 💼 I am fully dedicated to Appolo Web Services.
+- 💼 I am fully dedicated to MEDZEY.
 
 - 🌱 I’m currently learning **advanced jetpack compose**
 
